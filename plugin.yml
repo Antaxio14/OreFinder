@@ -1,7 +1,7 @@
 name: OreFinder
 main: OreFinder\OreFinder
 version: 1.0
-author: Falk
+author: Antaxio
 api: [1.0.0]
 load: POSTWORLD
 commands:
