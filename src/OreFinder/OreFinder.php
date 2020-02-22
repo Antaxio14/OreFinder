@@ -1,4 +1,5 @@
 <?php
+
 namespace OreFinder;
 
 use pocketmine\block\Block;
