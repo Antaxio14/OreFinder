@@ -2,7 +2,7 @@ name: OreFinder
 main: OreFinder\OreFinder
 version: 1.0
 author: Antaxio
-api: [1.0.0]
+api: [3.0.0]
 load: POSTWORLD
 commands:
  ores:
